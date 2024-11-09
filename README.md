@@ -12,7 +12,7 @@ My Pokémon badges with technologies I usually work with
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,kafka,docker,grafana,python,fastapi,pytorch,cpp,typescript,react&perline=6)](https://skillicons.dev)
 
-![my Stats](https://github-readme-stats.vercel.app/api/top-langs?username=livcristi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&size_weight=0&count_weight=1)
+![my Stats](https://github-readme-stats.vercel.app/api/top-langs?username=livcristi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&size_weight=0&count_weight=1&layout=compact)
 
 # Interests 🐱‍👤
 Higher beings, these words are for you alone.
