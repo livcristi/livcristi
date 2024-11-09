@@ -2,8 +2,6 @@
 
 My name is Liviu-Cristian Terebeș and I am interested in fun software development and machine learning. 
 
-![my Stats](https://github-readme-stats.vercel.app/api/top-langs?username=livcristi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&size_weight=0&count_weight=1)
-
 # About Me 🐱‍💻
 - I am a Software Engineer at [8x8](https://github.com/8x8) (guess who maintains their AI microservices 👀).
 - I am also pursuing my Master's in Software Engineering at the Babeș-Bolyai University. 🏫 
@@ -13,6 +11,8 @@ My name is Liviu-Cristian Terebeș and I am interested in fun software developme
 My Pokémon badges with technologies I usually work with
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,kafka,docker,grafana,python,fastapi,pytorch,cpp,typescript,react&perline=6)](https://skillicons.dev)
+
+![my Stats](https://github-readme-stats.vercel.app/api/top-langs?username=livcristi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&size_weight=0&count_weight=1)
 
 # Interests 🐱‍👤
 Higher beings, these words are for you alone.
